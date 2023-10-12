@@ -63,7 +63,8 @@
 #navbar ul li a {
     font-family: 'Baloo 2', cursive;
     font-weight: bold;
-    color: white;
+    /* color: white; */
+    color:goldenrod;
     display: block;
     padding: 3px 22px;
     border-radius: 20px;
